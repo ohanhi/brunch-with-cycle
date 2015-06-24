@@ -1,0 +1,18 @@
+{
+  "name": "brunch-with-cycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "dependencies": {
+    "@cycle/core": "1.0.0-rc1",
+    "@cycle/web": "1.0.0",
+    "babel-brunch": "^5.1.2",
+    "brunch": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ohanhi",
+  "license": "MIT"
+}
